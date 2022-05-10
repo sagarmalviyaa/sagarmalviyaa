@@ -1,6 +1,7 @@
 ![MasterHead](https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a6248006e748ddd6b67.jpg?compress=1&resize=1000x750&vertical=top)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right"alt="Coding"width="100"src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=82a1493b2lv0ap207ifus1cit4yetgkwby59tlpoqnb4ffq0&rid=200w.webp&ct=g">
 
 - 🌱 I’m currently learning **Web Development,SQL,etc.**
 
