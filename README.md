@@ -1,8 +1,7 @@
+![MasterHead](https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a6248006e748ddd6b67.jpg?compress=1&resize=1000x750&vertical=top)
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-cpp&label=Profile%20views&color=E83845&style=flat" alt="sagar-cpp" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **Web Development,SQL,etc.**
 
 - 💬 Ask me about **Anything**
