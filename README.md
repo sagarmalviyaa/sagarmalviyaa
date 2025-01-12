@@ -1,23 +1,30 @@
-![MasterHead](https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a6248006e748ddd6b67.jpg?compress=1&resize=1000x750&vertical=top)
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="Coding"width="200"src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=82a1493b2lv0ap207ifus1cit4yetgkwby59tlpoqnb4ffq0&rid=200w.webp&ct=g">
+# Welcome to My GitHub Profile!
 
-- 🌱 I’m currently learning **Web Development,SQL,etc.**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **sagarmalviya00@gmail.com**
-
-- ⚡ Fun fact **You guys are awesome ☺️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/sagarbuddy.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sagarbuddy.m" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/s/aglnagxpz2h0oje3ota5odmynta5mzi1mjc5?story_media_id=2257551343122397299_5938892075&igshid=ymmymta2m2yhttps://www.instagram.com/sagarbuddy_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/s/aglnagxpz2h0oje3ota5odmynta5mzi1mjc5?story_media_id=2257551343122397299_5938892075&igshid=ymmymta2m2yhttps://www.instagram.com/sagarbuddy_official" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+## About Me
+Hello there! I'm Sagar Malviya. I'm passionate about learning and currently focusing on enhancing my skills in **ReactJS** (for frontend), **Spring Boot** and **Hibernate** (for backend). When I'm not coding, you can find me exploring new technologies and contributing to open-source projects.
 
 
+## Get in Touch
+- **Email:** work.sagarmalviya@gmail.com
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sagarmalviya/)
+
+## My Projects
+You can explore all of my projects on [My Portfolio](https://github.com/dosomething-sagar?tab=repositories).
+
+## Languages and Tools
+I'm proficient in various languages and tools, including:
+- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height=24/> Spring Boot
+- <img src="https://img.icons8.com/color/48/000000/hibernate.png" height=24/> Hibernate
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height=24/> Java
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" height=24/> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png" height=24/> CSS
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height=24/> Bootstrap
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height=24/> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height=24/> Express
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height=24/> Node.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height=24/> React
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height=24/> MySQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height=24/> MongoDB
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" height=24/> Git
+
+Feel free to reach out to me if you have any questions or just want to connect. Looking forward to collaborating with you!
