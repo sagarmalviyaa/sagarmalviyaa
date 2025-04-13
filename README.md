@@ -5,7 +5,7 @@ Hello there! I'm Sagar Malviya. I'm passionate about learning and currently focu
 
 
 ## Get in Touch
-- **Email:** work.sagarmalviya@gmail.com
+- **Email:** worksagarmalviya@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sagarmalviya/)
 
 ## My Projects
