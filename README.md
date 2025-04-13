@@ -9,7 +9,7 @@ Hello there! I'm Sagar Malviya. I'm passionate about learning and currently focu
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sagarmalviya/)
 
 ## My Projects
-You can explore all of my projects on [My Portfolio](https://github.com/dosomething-sagar?tab=repositories).
+You can explore all of my projects on [My Portfolio](https://github.com/sagarmalviyaa?tab=repositories).
 
 ## Languages and Tools
 I'm proficient in various languages and tools, including:
