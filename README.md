@@ -19,7 +19,6 @@ I'm proficient in various languages and tools, including:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height=24/> JavaScript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height=24/> React
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height=24/> MySQL
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height=24/> MongoDB
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" height=24/> Git
 
 Feel free to reach out to me if you have any questions or just want to connect. Looking forward to collaborating with you!
