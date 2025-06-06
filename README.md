@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Sagar Malviya
 🎓 Master’s in Computer Applications (2022-2024)  <br>💻 Java Software Developer Intern @ OSOPCoding EduTech  <br>💡 I love building scalable, secure, and efficient web applications  <br>🔐 Experienced in role-based authentication using Spring Security & JWT  <br>🌐 Frontend: React.js, HTML, CSS, Shadcn-UI  <br>🛠 Backend: Java, Spring Boot, Hibernate, RESTful APIs  <br>🗃️ Database: MySQL, JDBC  <br>🌱 Currently learning: Microservices and Cloud Deployment  <br>🧠 Always open to contributing to real-world projects and hackathons
 
 
