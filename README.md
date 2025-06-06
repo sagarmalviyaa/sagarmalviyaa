@@ -1,6 +1,7 @@
 # Hi 👋, I'm Sagar Malviya
 🎓 Master’s in Computer Applications (2022-2024)  <br>💻 Java Software Developer Intern @ OSOPCoding EduTech  <br>💡 I love building scalable, secure, and efficient web applications  <br>🔐 Experienced in role-based authentication using Spring Security & JWT  <br>🌐 Frontend: React.js, HTML, CSS, Shadcn-UI  <br>🛠 Backend: Java, Spring Boot, Hibernate, RESTful APIs  <br>🗃️ Database: MySQL, JDBC  <br>🌱 Currently learning: Microservices and Cloud Deployment  <br>🧠 Always open to contributing to real-world projects and hackathons
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sagarmalviyaa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sagarbuddy.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarmalviya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:worksagarmalviya@gmail.com) 
@@ -12,10 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HouariZegai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HouariZegai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sagarmalviyaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sagarmalviya) 
